@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adharsh</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | Skilled in Frontend & Backend Development | Dedicated to Building Responsive and Scalable Applications | India</h3>
+<h3 align="center">Frontend & Backend Developer ⚙️ | Skilled in client and server technologies, building user-focused solutions | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh-a&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh-a" /> </p>
 
