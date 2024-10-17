@@ -34,5 +34,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,prisma,powershell,firebase,express,npm,redis,vitest"/>
 </p>
 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/adharsh9828"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/adharsh9828" /></a></p><br><br>
+<p align="center">
+   <img  alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  width="250" >
+</p>
