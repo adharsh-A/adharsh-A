@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/notfunnyadharsh" target="blank"><img src="https://img.shields.io/twitter/follow/notfunnyadharsh?logo=twitter&style=for-the-badge" alt="notfunnyadharsh" /></a> </p>
 
-- 🔭 I’m currently working on [Talent Finder](https://talent-finder-frontend.vercel.app/)
+- 🌱 Currently learning **advanced web development concepts**
 
-- 🌱 I’m currently learning **advanced web development concepts**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👯 I’m looking to collaborate on **Full Stack**
+- 👨‍💻 Check out my projects: [Portfolio](https://adharsh-portfolio.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://adharsh-portfolio.netlify.app/](https://adharsh-portfolio.netlify.app/)
+- 💬 Feel free to ask me about my experience building full-stack web applications
 
-- 💬 Ask me about **my experience with building full stack web applications**
-
-- 📫 How to reach me **adharshcodes@gmail.com**
+- 📫 Reach me at: adharshcodes@gmail.com
 
 - ⚡ Fun fact **I once tried to explain coding concepts to my pet goldfish, and now I’m convinced they understand more than some of my friends!**
 
@@ -34,8 +32,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,express,react,tailwind,postgres,mongodb,mysql,redux,aws,remix,scss,git,jest,postman,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,prisma,powershell,firebase,express,npm,redis,vitest"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/efa79272-628e-464d-b4ba-f6540c9cf593)
 
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adharsh-a&theme=xcode&hide_border=true" />
+  </div>
 
 
 <h3 align="left">Support:</h3>
