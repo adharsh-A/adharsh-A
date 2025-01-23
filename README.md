@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/notfunnyadharsh" target="blank"><img src="https://img.shields.io/twitter/follow/notfunnyadharsh?logo=twitter&style=for-the-badge" alt="notfunnyadharsh" /></a> </p>
 
-- 🌱 Currently learning **advanced web development concepts**
+🚀 About Me
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+💻 Passionate about building intuitive and scalable full-stack applications.
 
-- 👨‍💻 Check out my projects: [Portfolio](https://adharsh-portfolio.netlify.app/)
+🌱 Always learning new tricks and exploring advanced concepts.
 
-- 💬 Feel free to ask me about my experience building full-stack web applications
+🛠️ Skilled in bridging the gap between sleek frontends and powerful backends.
 
-- 📫 Reach me at: adharshcodes@gmail.com
-
-- ⚡ Fun fact **I once tried to explain coding concepts to my pet goldfish, and now I’m convinced they understand more than some of my friends!**
+🔗 Check Out My Work
+🌟 Portfolio: [My Projects](https://adharsh-portfolio.netlify.app/)
+🧑‍💻 GitHub Repos: [Dive into my code here!](https://github.com/adharsh-A?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
