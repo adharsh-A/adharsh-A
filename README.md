@@ -23,7 +23,7 @@
 🛠️ Skilled in bridging the gap between sleek frontends and powerful backends.
 
 🔗 Check Out My Work
-🌟 Portfolio: [My Projects](https://adharsh.is.a.dev/)
+🌟 Portfolio: [My Projects](https://adharsh.is-a.dev/)
 🧑‍💻 GitHub Repos: [Dive into my code here!](https://github.com/adharsh-A?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
