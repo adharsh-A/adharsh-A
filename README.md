@@ -13,9 +13,6 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh-a&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh-a" /> </p>
-
-<p align="left"> <a href="https://twitter.com/notfunnyadharsh" target="_blank"><img src="https://img.shields.io/twitter/follow/notfunnyadharsh?logo=twitter&style=for-the-badge" alt="notfunnyadharsh" /></a> </p>
 
 🚀 About Me
 
