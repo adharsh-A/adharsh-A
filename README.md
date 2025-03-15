@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/adharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adharsh" height="30" width="40" /></a>
 <a href="https://twitter.com/notfunnyadharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notfunnyadharsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adharsh-boddul-6847a3235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adharsh-boddul-6847a3235" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adharsh-b-6847a3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adharsh-boddul-6847a3235" height="30" width="40" /></a>
 <a href="https://instagram.com/adharsh.pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adharsh.pvt" height="30" width="40" /></a>
 </p>
 
