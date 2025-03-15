@@ -1,6 +1,17 @@
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80">
+  Hey there, I'm Adharsh
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80">
+</h1>
+<h3 align="center">Full Stack Developer | Designing Scalable Systems & Fluid User Experiences | Optimizing Performance, Data, and Innovation| India 🇮🇳</h3>
+<div align="center">
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/notfunnyadharsh?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/notfunnyadharsh)
+  [![Profile Views](https://komarev.com/ghpvc/?username=adharsh-a&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/adharsh-a)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-adharsh.vercel.app/)
+  
+</div>
 
-<h1 align="center">Hi 👋, I'm Adharsh</h1>
-<h3 align="center">Frontend & Backend Developer ⚙️ | Skilled in client and server technologies, building user-focused solutions | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adharsh-a&label=Profile%20views&color=0e75b6&style=flat" alt="adharsh-a" /> </p>
 
