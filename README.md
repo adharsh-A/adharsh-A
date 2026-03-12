@@ -1,7 +1,7 @@
 <h1>
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHVqOW1ubTV2M3dzank3YmQ1MDI5YWVmbTNsbmMyM3MwMTVleGg3biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/HElPKD74x9s1stsKT5/giphy.gif" width="80">
   Hey there, I'm Adharsh
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35"> -->
 </h1>
 
 <h3>
@@ -107,4 +107,7 @@ I enjoy designing **high-performance backend systems and optimizing application 
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXptOWJoMjhjOTB3Nm05bm9udHhrcm1mM2lrd3U3amJ4eGNtZWJ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjIydjFtazA1aTI2Z2Q3MmU5dm5wMGN1bmFiNjA5eTE0anRpemx0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5yOQJ3X3y0Xyd476S/giphy.gif" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZxMGZuam96dWR4MzhyOGZydzlxYWU4eDR2ZXkwd2JjazJrbm5kNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" width="200" />
+</div>
